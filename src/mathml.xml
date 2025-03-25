@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="mathml.xsl"?>
+<parentmode>
+    <link_url>http://www.google.com</link_url>
+    <svgnode>
+
+	<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+		<rect width="400" height="400" fill="#6C5CE7" />
+		<!-- Connections between nodes -->
+		<line x1="200" y1="80" x2="100" y2="280" stroke="#B8B5FF" stroke-width="5" />
+		<line x1="200" y1="80" x2="300" y2="280" stroke="#B8B5FF" stroke-width="5" />
+		<line x1="200" y1="80" x2="200" y2="200" stroke="#B8B5FF" stroke-width="5" />
+		<line x1="100" y1="280" x2="200" y2="200" stroke="#B8B5FF" stroke-width="5" />
+		<line x1="300" y1="280" x2="200" y2="200" stroke="#B8B5FF" stroke-width="5" />
+		<line x1="100" y1="280" x2="300" y2="280" stroke="#B8B5FF" stroke-width="5" />
+		<!-- Nodes -->
+		<circle cx="200" cy="80" r="30" fill="white" />
+		<circle cx="200" cy="200" r="30" fill="white" />
+		<circle cx="100" cy="280" r="30" fill="white" />
+		<circle cx="300" cy="280" r="30" fill="white" />
+	</svg>
+    </svgnode>
+	<math>
+		<mrow>
+			<mi>
+				x
+			</mi>
+			<mo>
+				=
+			</mo>
+			<mfrac>
+				<mrow>
+					<mo>
+						-
+					</mo>
+					<mi>
+						b
+					</mi>
+					<mo>
+						±
+					</mo>
+					<msqrt>
+						<msup>
+							<mi>
+								b
+							</mi>
+							<mn>
+								2
+							</mn>
+						</msup>
+						<mo>
+							-
+						</mo>
+						<mn>
+							4
+						</mn>
+						<mi>
+							a
+						</mi>
+						<mi>
+							c
+						</mi>
+					</msqrt>
+				</mrow>
+				<mrow>
+					<mn>
+						2
+					</mn>
+					<mi>
+						a
+					</mi>
+				</mrow>
+			</mfrac>
+		</mrow>
+	</math>
+
+
+</parentmode>

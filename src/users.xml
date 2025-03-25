@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <user>
+        <id>1</id>
+        <login>admin</login>
+        <password>80dbbf24df0b4257fa1c08e9e95f7dd9</password>
+        <firstname>Bulgac</firstname>
+        <lastname>Bulgac</lastname>
+        <email>admin@myblog.com</email>
+        <birthday>2005-12-09</birthday>
+        <admin>1</admin>
+    </user>
+</root>
